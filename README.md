@@ -2,11 +2,10 @@
 
 Movie explorer using The Movie Database API built with React/Redux and Styled Components
 
-### [Live Demo](https://modest-jackson-7bcaa6.netlify.app)
+## [Live Demo](https://modest-jackson-7bcaa6.netlify.app) 
+(Deployed with Netlify)
 
-Deployed with Netlify
-
-### Screenshots
+## Screenshots
 
 Home
 ![Home](/screenshots/home.png)
